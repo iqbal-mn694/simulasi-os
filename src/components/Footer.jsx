@@ -130,8 +130,8 @@ const Footer = () => {
                             Hubungi Kami
                         </h4>
                         <address className="not-italic text-indigo-100 space-y-2">
-                            <p>Jurusan Ilmu Komputer</p>
-                            <p>Universitas Pendidikan Indonesia</p>
+                            <p>Jurusan Informatika</p>
+                            <p>Universitas Siliwangi</p>
                             <p>Bandung, Jawa Barat</p>
                             <a
                                 href="mailto:contact@ossimulator.edu"
