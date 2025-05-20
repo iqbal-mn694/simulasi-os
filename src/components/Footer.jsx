@@ -132,7 +132,7 @@ const Footer = () => {
                         <address className="not-italic text-indigo-100 space-y-2">
                             <p>Jurusan Informatika</p>
                             <p>Universitas Siliwangi</p>
-                            <p>Bandung, Jawa Barat</p>
+                            <p>Tasikmalaya, Jawa Barat</p>
                             <a
                                 href="mailto:contact@ossimulator.edu"
                                 className="flex items-center hover:text-white transition-colors"
